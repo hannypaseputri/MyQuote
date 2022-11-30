@@ -2,7 +2,7 @@ package com.si5a.myquote.Model;
 
 public class QuoteModel {
     private String text,author;
-    
+
 
     public String getText() {
         return text;
